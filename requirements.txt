@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+mediapipe
+numpy
+pillow
+deepface
+tf-keras==2.19.*

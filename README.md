@@ -22,6 +22,6 @@ It can detect **multiple people**, highlight **sleeping individuals in red**, pr
 ---
 #Largee Files
 
-Data : [data](https://drive.google.com/file/d/1Bnwc1-UUAWC8zYH0tKt5F_3MkiZyY2eE/view?usp=drive_link)
+Data              : [ data ](https://drive.google.com/file/d/1Bnwc1-UUAWC8zYH0tKt5F_3MkiZyY2eE/view?usp=drive_link)
 
-Environment setup : [venv](https://drive.google.com/file/d/1-_3VQDbm_2vpp4p7uTSSznmP6bibJDcg/view?usp=drive_link)
+Environment setup : [ venv ](https://drive.google.com/file/d/1-_3VQDbm_2vpp4p7uTSSznmP6bibJDcg/view?usp=drive_link)

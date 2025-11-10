@@ -20,7 +20,7 @@ It can detect **multiple people**, highlight **sleeping individuals in red**, pr
 ✅ Optimized for CPU (GPU optional)
 
 ---
-#Largee Files
+##Large Files
 
 Data              : [ data ](https://drive.google.com/file/d/1Bnwc1-UUAWC8zYH0tKt5F_3MkiZyY2eE/view?usp=drive_link)
 
